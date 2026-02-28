@@ -1,0 +1,114 @@
+/* Import Google Font - Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color:  #e3f2fd;;
+  color: white;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.creditCard {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  max-width: 450px;
+  width: 100%;
+  height: 250px;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+/* Logo */
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.logo img{
+  width: 75px;
+  height: auto;
+}
+
+.logo h1 {
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.chip img{
+  width: 75px;
+  height: auto;
+}
+
+/* Card Details */
+.card-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 25px 25px 25px;
+  position: relative;
+}
+
+.name-number {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 25px;
+}
+
+.cardNumber h2 {
+  font-size: 17px;
+  font-weight: 300;
+}
+
+.cardNumber h3 {
+  font-size: 22px;
+  letter-spacing: 3px;
+  font-weight: 500;
+}
+
+.cardName p {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Valid */
+.valid {
+  position: absolute;
+  right: 25px;
+  bottom: 25px;
+  text-align: left;
+}
+
+.valid h5 {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.valid h4{
+  font-size: 22.5px;
+  font-weight: 400;
+}
