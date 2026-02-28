@@ -7,28 +7,28 @@ When the user **clicked over a card**, it expands smoothly to reveal a short des
 # Preview  
 **Morning Card**
 <p align="center">
-  <img src="https://github.com/Karan-Roshan/Image-Accordion/blob/dce4792538ed34125a377ae7c92d5aa1976f7249/Photos/Morning%20Card.png" 
+  <img src="https://github.com/Karan-Roshan/frontend-foundations/blob/54fc0d711066c179e08f505f62ddc2784727dd92/Image%20Accordion/Photos/Morning%20Card.png" 
        alt="Morning Card" 
        width="300">
 </p>
 
 **Afternoon Card**
 <p align="center">
-  <img src="https://github.com/Karan-Roshan/Image-Accordion/blob/dce4792538ed34125a377ae7c92d5aa1976f7249/Photos/Afternoon%20Card.png" 
+  <img src="https://github.com/Karan-Roshan/frontend-foundations/blob/54fc0d711066c179e08f505f62ddc2784727dd92/Image%20Accordion/Photos/Afternoon%20Card.png" 
        alt="Afternoon Card" 
        width="300">
 </p>
 
 **Evening Card**
 <p align="center">
-  <img src="https://github.com/Karan-Roshan/Image-Accordion/blob/dce4792538ed34125a377ae7c92d5aa1976f7249/Photos/Evening%20Card.png" 
+  <img src="https://github.com/Karan-Roshan/frontend-foundations/blob/54fc0d711066c179e08f505f62ddc2784727dd92/Image%20Accordion/Photos/Evening%20Card.png" 
        alt="Evening Card" 
        width="300">
 </p>
 
 **Night Card**
 <p align="center">
-  <img src="https://github.com/Karan-Roshan/Image-Accordion/blob/dce4792538ed34125a377ae7c92d5aa1976f7249/Photos/Night%20Card.png" 
+  <img src="https://github.com/Karan-Roshan/frontend-foundations/blob/54fc0d711066c179e08f505f62ddc2784727dd92/Image%20Accordion/Photos/Night%20Card.png" 
        alt="Night Card" 
        width="300">
 </p>
